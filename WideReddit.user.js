@@ -7,7 +7,7 @@
 // @license     GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @icon        https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png
 // @author      jxm
-// @description Make new reddit layout fill screen width. 10/06/2020, 22:31:07
+// @description Make new reddit layout fill screen width.
 // ==/UserScript==
 function addGlobalStyle(css) {
     var head, style;
